@@ -1,4 +1,4 @@
-package Assignment;
+package org.tnsif.assignment;
 
 import java.util.Scanner;
 

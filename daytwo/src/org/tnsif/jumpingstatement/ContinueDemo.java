@@ -1,4 +1,4 @@
-package jumpingstatement;
+package org.tnsif.jumpingstatement;
 
 public class ContinueDemo {
 
